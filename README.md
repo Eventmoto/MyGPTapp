@@ -1,2 +1,2 @@
-# MyGPTapp
+# EMapp
 APP Repository
